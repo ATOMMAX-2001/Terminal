@@ -71,8 +71,7 @@ std::cout<<std::endl;
         appinit.insert(std::pair<std::string,std::string>(key,value));
     }
    }
-
-
+    myFile.close();
     std::cin.clear();
     std::cin.sync();
     do
