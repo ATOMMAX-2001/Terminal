@@ -1,4 +1,4 @@
-![alt text](https://github.com/ATOMMAX-2001/Terminal/blob/main/terminalLogo.png)
+![alt text](https://github.com/ATOMMAX-2001/Terminal/blob/main/terminalLogo.PNG)
 
 # Terminal
 Terminal is a Console Based Application For Windows.Somewhat better than cmd.
